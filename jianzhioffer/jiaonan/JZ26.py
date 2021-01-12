@@ -12,4 +12,4 @@ class TreeNode:
 
 class Solution:
     def Convert(self, pRootOfTree):
-        print('haha')
+
