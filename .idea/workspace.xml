@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="073de1fd-2ca5-4213-95ca-fb2f3a73bf0c" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MoFan/Q Learning/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ59.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ57.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ63.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f276bfb9-2351-44b2-aa96-2219dfd0d475" />
+  </component>
+  <component name="JupyterTrust" id="b12fc5a2-0d9e-4d4c-a58d-7b87a4322d9c" />
+  <component name="ProjectId" id="1k5X6XvjvrtrNlZUCOzwQrm5Omv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Application\PyCharm\Donna\PycharmProjects\pythonProject\jianzhioffer\jiaonan" />
+      <recent name="E:\Application\PyCharm\Donna\PycharmProjects\pythonProject\jianzhioffer\zhongdeng" />
+      <recent name="E:\Application\PyCharm\Donna\PycharmProjects\pythonProject\jianzhioffer\jiandan" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Application\PyCharm\Donna\PycharmProjects\pythonProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.JZ22">
+    <configuration name="JZ16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JZ17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JZ20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JZ22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JZ24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.JZ22" />
+        <item itemvalue="Python.JZ16" />
+        <item itemvalue="Python.JZ24" />
+        <item itemvalue="Python.JZ20" />
+        <item itemvalue="Python.JZ17" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="073de1fd-2ca5-4213-95ca-fb2f3a73bf0c" name="Default Changelist" comment="" />
+      <created>1604991250227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604991250227</updated>
+      <workItem from="1604991266382" duration="5729000" />
+      <workItem from="1605256070157" duration="10630000" />
+      <workItem from="1605442537605" duration="6862000" />
+      <workItem from="1605494188844" duration="12051000" />
+      <workItem from="1605593695908" duration="18751000" />
+      <workItem from="1605660670156" duration="6448000" />
+      <workItem from="1605682489874" duration="12238000" />
+      <workItem from="1605752950038" duration="22138000" />
+      <workItem from="1605833855248" duration="18604000" />
+      <workItem from="1606048753835" duration="5373000" />
+      <workItem from="1606098607677" duration="10590000" />
+      <workItem from="1606267538445" duration="15145000" />
+      <workItem from="1606353293192" duration="1955000" />
+      <workItem from="1606355985055" duration="11119000" />
+      <workItem from="1606457079761" duration="13302000" />
+      <workItem from="1606703366995" duration="5663000" />
+      <workItem from="1606808965540" duration="15794000" />
+      <workItem from="1606869956080" duration="24898000" />
+      <workItem from="1606961280454" duration="16389000" />
+      <workItem from="1607061585022" duration="3324000" />
+      <workItem from="1607306869029" duration="23830000" />
+      <workItem from="1607388480192" duration="20167000" />
+      <workItem from="1607474459434" duration="20761000" />
+      <workItem from="1607568910614" duration="10192000" />
+      <workItem from="1607594958708" duration="1573000" />
+      <workItem from="1607647171316" duration="7105000" />
+      <workItem from="1607908407281" duration="19986000" />
+      <workItem from="1607993676728" duration="16310000" />
+      <workItem from="1608080293510" duration="22809000" />
+      <workItem from="1608252234851" duration="1902000" />
+      <workItem from="1608511324366" duration="12227000" />
+      <workItem from="1608619013843" duration="1403000" />
+      <workItem from="1609224152507" duration="8163000" />
+      <workItem from="1609288600814" duration="12986000" />
+      <workItem from="1609723833946" duration="4000" />
+      <workItem from="1609725718264" duration="3527000" />
+      <workItem from="1609740821611" duration="1340000" />
+      <workItem from="1609833008607" duration="4209000" />
+      <workItem from="1610433801610" duration="2686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="733" y="365" key="#Notifications" timestamp="1606353966039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="365" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1606353966039" />
+    <state x="677" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606481402813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606481402813" />
+    <state x="830" y="493" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606354311683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="493" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606354311683" />
+    <state x="655" y="156" key="#xdebugger.evaluate" timestamp="1605621752767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="156" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1605621752767" />
+    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1610436650871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610436650871" />
+    <state x="1374" y="393" width="546" height="647" key="FileChooserDialogImpl" timestamp="1610436453196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1374" y="393" width="546" height="647" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610436453196" />
+    <state x="778" y="393" key="Github.ShareDialog" timestamp="1610436525259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="393" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610436525259" />
+    <state x="614" y="0" width="692" height="850" key="Github.UntrackedFilesDialog" timestamp="1610436559048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="0" width="692" height="850" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610436559048" />
+    <state width="1333" height="28" key="GridCell.Tab.0.bottom" timestamp="1609838142203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1333" height="28" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609838142203" />
+    <state width="1333" height="28" key="GridCell.Tab.0.center" timestamp="1609838142202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1333" height="28" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609838142202" />
+    <state width="1333" height="28" key="GridCell.Tab.0.left" timestamp="1609838142202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1333" height="28" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609838142202" />
+    <state width="1333" height="28" key="GridCell.Tab.0.right" timestamp="1609838142202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1333" height="28" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609838142202" />
+    <state width="691" height="173" key="GridCell.Tab.1.bottom" timestamp="1607696180233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="691" height="173" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607696180233" />
+    <state width="691" height="173" key="GridCell.Tab.1.center" timestamp="1607696180233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="691" height="173" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607696180233" />
+    <state width="691" height="173" key="GridCell.Tab.1.left" timestamp="1607696180233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="691" height="173" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607696180233" />
+    <state width="691" height="173" key="GridCell.Tab.1.right" timestamp="1607696180233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="691" height="173" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607696180233" />
+    <state x="250" y="157" key="SettingsEditor" timestamp="1610436683039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="250" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610436683039" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1610436601933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610436601933" />
+    <state x="489" y="274" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607311401091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="274" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1607311401091" />
+    <state x="82" y="46" width="907" height="739" key="dock-window-1" timestamp="1607587709407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="82" y="46" width="907" height="739" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1607587709407" />
+    <state x="848" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1609225532013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="848" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609225532013" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianzhioffer/jiandan/JZ48.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ21.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ43.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ43.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ36.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianzhioffer/jiaonan/JZ64.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianzhioffer/jiaonan/JZ29.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$JZ41.coverage" NAME="JZ41 Coverage Results" MODIFIED="1607478590577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ47.coverage" NAME="JZ47 Coverage Results" MODIFIED="1606050389012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ32.coverage" NAME="JZ32 Coverage Results" MODIFIED="1606876110365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ38.coverage" NAME="JZ38 Coverage Results" MODIFIED="1605604393933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ9__1_.coverage" NAME="JZ9 (1) Coverage Results" MODIFIED="1605448792807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer" />
+    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1606118089098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ56.coverage" NAME="JZ56 Coverage Results" MODIFIED="1607933194155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ20.coverage" NAME="JZ20 Coverage Results" MODIFIED="1609233176094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ59.coverage" NAME="JZ59 Coverage Results" MODIFIED="1608001153319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ11.coverage" NAME="JZ11 Coverage Results" MODIFIED="1605836125847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ6.coverage" NAME="JZ6 Coverage Results" MODIFIED="1605274490027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ66.coverage" NAME="JZ66 Coverage Results" MODIFIED="1607588832197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ16.coverage" NAME="JZ16 Coverage Results" MODIFIED="1609381069245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ13.coverage" NAME="JZ13 Coverage Results" MODIFIED="1606294229411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ3.coverage" NAME="JZ3 Coverage Results" MODIFIED="1606400267990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ63.coverage" NAME="JZ63 Coverage Results" MODIFIED="1606810080092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ54.coverage" NAME="JZ54 Coverage Results" MODIFIED="1607332566846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ28.coverage" NAME="JZ28 Coverage Results" MODIFIED="1606272797779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ60.coverage" NAME="JZ60 Coverage Results" MODIFIED="1607325723727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ34.coverage" NAME="JZ34 Coverage Results" MODIFIED="1607584934870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ42.coverage" NAME="JZ42 Coverage Results" MODIFIED="1607396213808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ1.coverage" NAME="JZ1 Coverage Results" MODIFIED="1606822790540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ46.coverage" NAME="JZ46 Coverage Results" MODIFIED="1606896380408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$BinaryTree.coverage" NAME="BinaryTree Coverage Results" MODIFIED="1608018006968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ30.coverage" NAME="JZ30 Coverage Results" MODIFIED="1606099272790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ65.coverage" NAME="JZ65 Coverage Results" MODIFIED="1607650293864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ17.coverage" NAME="JZ17 Coverage Results" MODIFIED="1609230538455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ23.coverage" NAME="JZ23 Coverage Results" MODIFIED="1608191458243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ53.coverage" NAME="JZ53 Coverage Results" MODIFIED="1607390281508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ58.coverage" NAME="JZ58 Coverage Results" MODIFIED="1608080747400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ29.coverage" NAME="JZ29 Coverage Results" MODIFIED="1608515938752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1608620206555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MoFan/Q Learning" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ7.coverage" NAME="JZ7 Coverage Results" MODIFIED="1605783781656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ35.coverage" NAME="JZ35 Coverage Results" MODIFIED="1608511506332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ5.coverage" NAME="JZ5 Coverage Results" MODIFIED="1605274826335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ2.coverage" NAME="JZ2 Coverage Results" MODIFIED="1606397920321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ12.coverage" NAME="JZ12 Coverage Results" MODIFIED="1605840580074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ15.coverage" NAME="JZ15 Coverage Results" MODIFIED="1606398073478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ64.coverage" NAME="JZ64 Coverage Results" MODIFIED="1607502351970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ8.coverage" NAME="JZ8 Coverage Results" MODIFIED="1605788117951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ55.coverage" NAME="JZ55 Coverage Results" MODIFIED="1607485359291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ27.coverage" NAME="JZ27 Coverage Results" MODIFIED="1608531691883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ52.coverage" NAME="JZ52 Coverage Results" MODIFIED="1607915149839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ18.coverage" NAME="JZ18 Coverage Results" MODIFIED="1606978450768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiandan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ24.coverage" NAME="JZ24 Coverage Results" MODIFIED="1609381042571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ61.coverage" NAME="JZ61 Coverage Results" MODIFIED="1608020920985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ43.coverage" NAME="JZ43 Coverage Results" MODIFIED="1606813736559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ40.coverage" NAME="JZ40 Coverage Results" MODIFIED="1607475219971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ36.coverage" NAME="JZ36 Coverage Results" MODIFIED="1607399051704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ45.coverage" NAME="JZ45 Coverage Results" MODIFIED="1606912025364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ48.coverage" NAME="JZ48 Coverage Results" MODIFIED="1605621338079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ31.coverage" NAME="JZ31 Coverage Results" MODIFIED="1606275720208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ22.coverage" NAME="JZ22 Coverage Results" MODIFIED="1609834166959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ51.coverage" NAME="JZ51 Coverage Results" MODIFIED="1605620197497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ19.coverage" NAME="JZ19 Coverage Results" MODIFIED="1606459330494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ10.coverage" NAME="JZ10 Coverage Results" MODIFIED="1605790742074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ37.coverage" NAME="JZ37 Coverage Results" MODIFIED="1607424079763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ33.coverage" NAME="JZ33 Coverage Results" MODIFIED="1606912380298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$11.coverage" NAME="11 Coverage Results" MODIFIED="1608519791670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ14.coverage" NAME="JZ14 Coverage Results" MODIFIED="1606356252142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ4.coverage" NAME="JZ4 Coverage Results" MODIFIED="1605773915121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ21.coverage" NAME="JZ21 Coverage Results" MODIFIED="1606102502394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ62.coverage" NAME="JZ62 Coverage Results" MODIFIED="1605768665143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ49.coverage" NAME="JZ49 Coverage Results" MODIFIED="1608084628520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/jiaonan" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ50.coverage" NAME="JZ50 Coverage Results" MODIFIED="1606477362206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ44.coverage" NAME="JZ44 Coverage Results" MODIFIED="1606900336140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+    <SUITE FILE_PATH="coverage/pythonProject$JZ67.coverage" NAME="JZ67 Coverage Results" MODIFIED="1607351891473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhioffer/zhongdeng" />
+  </component>
+</project>
