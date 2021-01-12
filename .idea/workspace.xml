@@ -4,86 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="073de1fd-2ca5-4213-95ca-fb2f3a73bf0c" name="Default Changelist" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MoFan/Q Learning/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ62.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiandan/JZ9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ56.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ58.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ59.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ61.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ64.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ65.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ66.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ55.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ57.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ63.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ67.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer/zhongdeng/JZ8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="073de1fd-2ca5-4213-95ca-fb2f3a73bf0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ26.py" beforeDir="false" afterPath="$PROJECT_DIR$/jianzhioffer/jiaonan/JZ26.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,8 +243,16 @@
       <workItem from="1609725718264" duration="3527000" />
       <workItem from="1609740821611" duration="1340000" />
       <workItem from="1609833008607" duration="4209000" />
-      <workItem from="1610433801610" duration="2686000" />
+      <workItem from="1610433801610" duration="2752000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1610436719792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610436719792</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,10 +279,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="655" y="156" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1605621752767" />
-    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1610436650871">
+    <state x="385" y="25" key="CommitChangelistDialog2" timestamp="1610436718470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610436650871" />
+    <state x="385" y="25" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610436718470" />
     <state x="1374" y="393" width="546" height="647" key="FileChooserDialogImpl" timestamp="1610436453196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -405,6 +335,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610436601933" />
+    <state x="710" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610436699299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610436699299" />
     <state x="489" y="274" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607311401091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
