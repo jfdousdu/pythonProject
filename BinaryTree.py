@@ -37,7 +37,7 @@ def mid_order_print(node):
     # mid --self -- right
     if node.left:
         mid_order_print(node.left)
-    print(node.value, end=' ')
+    print(node.value, end = ' ')
     if node.right:
         mid_order_print(node.right)
 
